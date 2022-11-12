@@ -1,1 +1,1 @@
-# Neural-Networks-Project---Gesture-Recognition-Case-Study
+# Neural-Networks-Project--Gesture-Recognition-Case-Study
